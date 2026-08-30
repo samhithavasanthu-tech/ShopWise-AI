@@ -1,0 +1,332 @@
+[
+    {
+        "timestamp": "2026-08-29 22:30:10",
+        "action": "Product Search",
+        "details": {
+            "user_query": "I need a laptop for programming",
+            "budget": 60000,
+            "results_found": 1
+        }
+    },
+    {
+        "timestamp": "2026-08-29 22:31:00",
+        "action": "Product Selected",
+        "details": {
+            "product_name": "CodePro Laptop",
+            "price": 55000,
+            "category": "Laptop"
+        }
+    },
+    {
+        "timestamp": "2026-08-29 23:24:56",
+        "action": "Product Search",
+        "details": {
+            "user_query": "i need a laptop for programming",
+            "budget": 60000,
+            "results_found": 1
+        }
+    },
+    {
+        "timestamp": "2026-08-29 23:25:00",
+        "action": "Product Selected",
+        "details": {
+            "product_name": "CodePro Laptop",
+            "price": 55000,
+            "category": "Laptop"
+        }
+    },
+    {
+        "timestamp": "2026-08-29 23:27:44",
+        "action": "Checkout Started",
+        "details": {
+            "selected_product": "CodePro Laptop",
+            "price": 55000,
+            "potential_cross_sell_revenue": 6500
+        }
+    },
+    {
+        "timestamp": "2026-08-29 23:28:10",
+        "action": "Order Approved by User",
+        "details": {
+            "product": "CodePro Laptop",
+            "total_amount": 61500
+        }
+    },
+    {
+        "timestamp": "2026-08-29 23:42:27",
+        "action": "Product Search",
+        "details": {
+            "user_query": "i need a laptop for programming",
+            "budget": 60000,
+            "results_found": 1
+        }
+    },
+    {
+        "timestamp": "2026-08-29 23:42:34",
+        "action": "Product Selected",
+        "details": {
+            "product_name": "CodePro Laptop",
+            "price": 55000,
+            "category": "Laptop"
+        }
+    },
+    {
+        "timestamp": "2026-08-29 23:42:43",
+        "action": "Checkout Started",
+        "details": {
+            "selected_product": "CodePro Laptop",
+            "price": 55000,
+            "potential_cross_sell_revenue": 6500
+        }
+    },
+    {
+        "timestamp": "2026-08-29 23:42:48",
+        "action": "Order Approved by User",
+        "details": {
+            "product": "CodePro Laptop",
+            "total_amount": 61500
+        }
+    },
+    {
+        "timestamp": "2026-08-29 23:57:15",
+        "action": "Product Search",
+        "details": {
+            "user_query": "I am a computer science student and need something for coding",
+            "budget": 60000,
+            "results_found": 1
+        }
+    },
+    {
+        "timestamp": "2026-08-29 23:57:50",
+        "action": "Product Search",
+        "details": {
+            "user_query": "I need something for typing",
+            "budget": 2500,
+            "results_found": 2
+        }
+    },
+    {
+        "timestamp": "2026-08-29 23:58:15",
+        "action": "Product Search",
+        "details": {
+            "user_query": "I am a developer and need an affordable computer",
+            "budget": 70000,
+            "results_found": 2
+        }
+    },
+    {
+        "timestamp": "2026-08-29 23:58:26",
+        "action": "Product Selected",
+        "details": {
+            "product_name": "UltraBook Pro",
+            "price": 65000,
+            "category": "Laptop"
+        }
+    },
+    {
+        "timestamp": "2026-08-29 23:58:28",
+        "action": "Product Selected",
+        "details": {
+            "product_name": "UltraBook Pro",
+            "price": 65000,
+            "category": "Laptop"
+        }
+    },
+    {
+        "timestamp": "2026-08-29 23:58:33",
+        "action": "Checkout Started",
+        "details": {
+            "selected_product": "UltraBook Pro",
+            "price": 65000,
+            "potential_cross_sell_revenue": 6500
+        }
+    },
+    {
+        "timestamp": "2026-08-29 23:58:38",
+        "action": "Order Approved by User",
+        "details": {
+            "product": "UltraBook Pro",
+            "total_amount": 71500
+        }
+    },
+    {
+        "timestamp": "2026-08-30 00:01:43",
+        "action": "Product Search",
+        "details": {
+            "user_query": "I am a computer science student and need something for coding",
+            "budget": 60000,
+            "results_found": 1
+        }
+    },
+    {
+        "timestamp": "2026-08-30 00:01:52",
+        "action": "Product Selected",
+        "details": {
+            "product_name": "CodePro Laptop",
+            "price": 55000,
+            "category": "Laptop"
+        }
+    },
+    {
+        "timestamp": "2026-08-30 00:08:03",
+        "action": "Product Search",
+        "details": {
+            "user_query": "I am a computer science student and need something for coding",
+            "budget": 60000,
+            "results_found": 4
+        }
+    },
+    {
+        "timestamp": "2026-08-30 00:16:15",
+        "action": "Product Search",
+        "details": {
+            "user_query": "I am a student and need a laptop for coding",
+            "budget": 60000,
+            "results_found": 4
+        }
+    },
+    {
+        "timestamp": "2026-08-30 00:16:16",
+        "action": "Product Search",
+        "details": {
+            "user_query": "I am a student and need a laptop for coding",
+            "budget": 60000,
+            "results_found": 4
+        }
+    },
+    {
+        "timestamp": "2026-08-30 00:24:19",
+        "action": "Product Search",
+        "details": {
+            "user_query": "I am a student and need a laptop for coding",
+            "budget": 60000,
+            "results_found": 4
+        }
+    },
+    {
+        "timestamp": "2026-08-30 00:24:23",
+        "action": "Product Search",
+        "details": {
+            "user_query": "I am a student and need a laptop for coding",
+            "budget": 60000,
+            "results_found": 4
+        }
+    },
+    {
+        "timestamp": "2026-08-30 00:27:13",
+        "action": "Product Search",
+        "details": {
+            "user_query": "I need a laptop for coding and programming",
+            "budget": 60000,
+            "results_found": 1
+        }
+    },
+    {
+        "timestamp": "2026-08-30 00:34:42",
+        "action": "Product Search",
+        "details": {
+            "user_query": "I need a laptop for coding and programming",
+            "budget": 60000,
+            "results_found": 1
+        }
+    },
+    {
+        "timestamp": "2026-08-30 00:34:44",
+        "action": "Product Search",
+        "details": {
+            "user_query": "I need a laptop for coding and programming",
+            "budget": 60000,
+            "results_found": 1
+        }
+    },
+    {
+        "timestamp": "2026-08-30 00:34:52",
+        "action": "Product Selected",
+        "details": {
+            "product_name": "CodePro Laptop",
+            "price": 55000,
+            "category": "Laptop",
+            "match_score": 95
+        }
+    },
+    {
+        "timestamp": "2026-08-30 00:35:00",
+        "action": "Checkout Started",
+        "details": {
+            "selected_product": "CodePro Laptop",
+            "price": 55000,
+            "potential_cross_sell_revenue": 6500
+        }
+    },
+    {
+        "timestamp": "2026-08-30 00:35:03",
+        "action": "Order Approved by User",
+        "details": {
+            "product": "CodePro Laptop",
+            "total_amount": 61500
+        }
+    },
+    {
+        "timestamp": "2026-08-30 00:39:33",
+        "action": "Product Search",
+        "details": {
+            "user_query": "I need a laptop for coding and programming",
+            "budget": 60000,
+            "results_found": 1
+        }
+    },
+    {
+        "timestamp": "2026-08-30 00:40:03",
+        "action": "Product Search",
+        "details": {
+            "user_query": "Keyboard",
+            "budget": 1500,
+            "results_found": 1
+        }
+    },
+    {
+        "timestamp": "2026-08-30 00:40:29",
+        "action": "Product Search",
+        "details": {
+            "user_query": "Keyboard",
+            "budget": 1500,
+            "results_found": 1
+        }
+    },
+    {
+        "timestamp": "2026-08-30 00:40:36",
+        "action": "Product Search",
+        "details": {
+            "user_query": "Keyboard",
+            "budget": 1500,
+            "results_found": 1
+        }
+    },
+    {
+        "timestamp": "2026-08-30 00:40:37",
+        "action": "Product Search",
+        "details": {
+            "user_query": "Keyboard",
+            "budget": 1500,
+            "results_found": 1
+        }
+    },
+    {
+        "timestamp": "2026-08-30 00:40:37",
+        "action": "Product Search",
+        "details": {
+            "user_query": "Keyboard",
+            "budget": 1500,
+            "results_found": 1
+        }
+    },
+    {
+        "timestamp": "2026-08-30 00:41:31",
+        "action": "Product Search",
+        "details": {
+            "user_query": "Mechanical Keyboard",
+            "budget": 3000,
+            "results_found": 2
+        }
+    }
+]

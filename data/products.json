@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "name": "CodePro Laptop",
+        "category": "Laptop",
+        "price": 55000,
+        "description": "Laptop suitable for programming and students",
+        "stock": true,
+        "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 2,
+        "name": "UltraBook Pro",
+        "category": "Laptop",
+        "price": 65000,
+        "description": "High performance laptop for programming and development",
+        "stock": true,
+        "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 3,
+        "name": "Wireless Mouse",
+        "category": "Accessory",
+        "price": 1200,
+        "description": "Comfortable wireless mouse for everyday work",
+        "stock": true,
+        "image": "https://images.unsplash.com/photo-1527814050087-3793815479db?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 4,
+        "name": "Laptop Backpack",
+        "category": "Accessory",
+        "price": 1800,
+        "description": "Protective backpack for carrying laptops and accessories",
+        "stock": true,
+        "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 5,
+        "name": "Mechanical Keyboard",
+        "category": "Accessory",
+        "price": 3500,
+        "description": "Mechanical keyboard suitable for coding and productivity",
+        "stock": true,
+        "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=800&q=80"
+    }
+]
