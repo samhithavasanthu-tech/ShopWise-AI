@@ -1,221 +1,263 @@
-# 🤖 ShopWise AI
+# 🤖 ShopWise AI 🛒
 
-## AI-Powered Agentic Commerce & Revenue Growth Assistant
+## An AI-Powered Agentic Commerce & Trust Platform
 
-ShopWise AI is an AI-powered shopping assistant that helps users discover suitable products based on their natural-language requirements and budget.
+ShopWise AI is an intelligent commerce platform that helps users discover products based on their needs and budget.
 
-The system analyzes user intent, ranks products using an AI Match Score, recommends complementary products, and provides business insights through revenue analytics and an AI audit trail.
-
----
-
-## 🚀 Live Demo
-
-👉 **Try ShopWise AI here:**
-
-[![Open ShopWise AI](https://img.shields.io/badge/🚀%20Live%20Demo-Try%20ShopWise%20AI-brightgreen)](https://shopwise-ai-d26zcygkeniarmqzaf5bnp.streamlit.app/Shop)
+The platform combines **AI-powered product discovery**, **agentic shopping**, **cross-selling**, **blockchain-inspired payments**, **verified product reviews**, and a **trust & reputation system** to create a more transparent and trustworthy shopping experience.
 
 ---
 
-## 🚀 Features
+# 🚀 Live Demo
 
-### 🧠 AI Intent Detection
-
-ShopWise AI analyzes natural-language user queries such as:
-
-> "I am a student and need a laptop for coding"
-
-The AI detects:
-
-- Product intent
-- User use case
-- Budget requirements
+👉 **[Open ShopWise AI Live Demo](https://shopwise-ai-d26zcygkeniarmqzaf5bnp.streamlit.app/Shop)**
 
 ---
 
-### ⭐ AI Product Match Score
+# ✨ Key Features
 
-Products are ranked based on their relevance to the user's request.
+## 🏠 Home Dashboard
 
-The AI considers:
+A central landing page that provides an overview of the ShopWise AI platform.
 
-- Product intent match
-- Product category
-- Product name keywords
-- Product description keywords
-- Budget compatibility
+Features:
+
+- Platform statistics
+- Available products
+- Verified review count
+- Average trust score
+- Complete user journey
+- Technology stack overview
+
+---
+
+## 🤖 AI Shopping Agent
+
+Users can enter their shopping requirements in natural language.
 
 Example:
 
 ```text
-🤖 AI Match Score: 95%
+I am a student and need a laptop for coding
 
+ShopWise AI analyzes:
+.User intent
+.Product category
+.Use case
+.Budget
+The system then recommends suitable products
 
-🛍️ Smart Product Discovery
+🎯 AI Product Matching:
+Products are ranked based on how well they match the user's requirements.
+The system provides:
+.AI Match Score
+.Product relevance
+.Budget compatibility
+.Intent-based recommendations
 
-Users can search for products using natural language.
+🛡️ Trust-Based Recommendations
+ShopWise AI improves recommendations using product trust signals.
+Trust can be influenced by:
+.Verified purchases
+.Verified customer reviews
+.Average product ratings
+.Product reputation
+This helps users make more trustworthy purchasing decisions.
 
-Example searches:
+🛒 Agentic Shopping & Checkout
 
-Laptop for coding
-Affordable product for students
-Keyboard for typing
-Laptop accessories
+Users can:
+1.Search for products
+2.Select a recommended product
+3.View AI explanations
+4.Receive complementary product recommendations
+5.Review checkout details
+6.Approve the final order
+The user remains in control of the final purchase decision.
 
-🤖 Cross-Sell Recommendations
-After selecting a product, ShopWise AI recommends complementary products.
+🤝 Cross-Sell Recommendations
+ShopWise AI recommends complementary products.
 For example:
 Laptop
    ↓
-AI Recommendations
-   ↓
-🖱️ Wireless Mouse
-⌨️ Mechanical Keyboard
-🎒 Laptop Backpack
-
-This helps increase potential order value.
+Wireless Mouse
+Laptop Backpack
+This can increase the potential order value while providing useful recommendations to users.
 
 📊 Revenue Dashboard
-The Revenue Dashboard provides insights into:
-Product selections
-Checkout activity
-Approved orders
-Revenue performance
-Cross-sell opportunities
+The Revenue Dashboard tracks business activity.
+Metrics include:
+.Product searches
+.Products selected
+.Checkout sessions
+.Approved orders
+.Cross-sell revenue potential
+.Approved revenue
+.Product selection rate
+.Search-to-order conversion
 
 📜 AI Audit Trail
-All important AI and user actions are recorded for transparency.
-Examples:
-Product searches
-Product selections
-Checkout started
-Order approved
-This helps make AI decisions traceable and transparent.
+ShopWise AI records important user actions and AI decisions.
+Tracked actions include:
+.Product searches
+.Product selections
+.Checkout sessions
+.Order approvals
+This improves:
+.Transparency
+.Traceability
+.Explainability
+.Trust in AI decisions
 
-📈 AI Business Insights
-ShopWise AI analyzes user activity and generates business insights such as:
-search-to-selection conversion
-Search-to-order conversion
-Revenue performance
-Cross-sell revenue potential
-AI-powered growth recommendations
+💳 Blockchain-Inspired Payments
+The platform includes a blockchain-inspired payment simulation.
+Each payment generates:
+.Unique transaction hash
+.Wallet address
+.Product information
+.Payment amount
+.Timestamp
+.Payment status
+Users can also verify transactions using the generated transaction hash.
+⚠️ This is currently a simulation and does not process real cryptocurrency transactions.
 
-✅ Human Approval
-The AI does not automatically confirm an order.
-The user must explicitly approve the order before confirmation.
+⭐ Verifiable Product Reviews
 
-This demonstrates:
-Human-in-the-loop AI
-User control
-Transparent decision-making
+Users can submit reviews only after their purchase is verified.
 
+The process is:
 
-🧠 AI Workflow
-User Query
-    ↓
-AI Intent Detection
-    ↓
-Use Case Detection
-    ↓
-Budget Filtering
-    ↓
-AI Match Scoring
-    ↓
-Product Ranking
-    ↓
-Product Selection
-    ↓
-Cross-Sell Recommendations
-    ↓
-Revenue Analysis
-    ↓
-User Approval
-    ↓
-AI Audit Trail
-  
+Blockchain Payment
+        ↓
+Purchase Verification
+        ↓
+Verified Purchaser
+        ↓
+Verified Product Review
 
+This helps reduce fake reviews and improves trust in product ratings.
 
-🛠️ Technologies Used
-Python
-Streamlit
-JSON
-AI Intent Detection
-Rule-Based Recommendation System
+🏆 Trust & Reputation Dashboard
+The Trust Dashboard displays product reputation information.
+Features include:
+.Product trust score
+.Average verified rating
+.Number of verified reviews
+.Product trust leaderboard
+.High, medium, and developing trust levels
 
-📁 Project Structure
-ShopWise-AI
+Products can be ranked according to their trust signals.
+
+🔄 Complete User Journey
+🏠 Home
+   ↓
+🛍️ AI Product Search
+   ↓
+🧠 Intent Analysis
+   ↓
+🎯 AI Product Matching
+   ↓
+🛡️ Trust-Based Ranking
+   ↓
+🛒 Product Selection
+   ↓
+🤝 Cross-Sell Recommendations
+   ↓
+🧾 Checkout
+   ↓
+✅ User Approval
+   ↓
+💳 Blockchain Payment
+   ↓
+🔗 Payment Verification
+   ↓
+⭐ Verified Review
+   ↓
+🏆 Trust Score Update
+
+🏗️ Project Structure:-
+ShopWise-AI/
 │
-├── agent
+├── agent/
 │   └── shopping_agent.py
 │
-├── data
+├── blockchain/
+│   ├── payment_service.py
+│   ├── review_verification.py
+│   └── trust_score.py
+│
+├── data/
 │   └── products.json
 │
-├── pages
+├── pages/
+│   ├── 0_🏠_Home.py
 │   ├── 1_🛍️_Shop.py
-│   ├── 2_Revenue_Dashboard.py
-│   ├── 3_AI_Audit_Trail.py
-│   └── 4_AI_Insights.py
+│   ├── 2_📊_Revenue_Dashboard.py
+│   ├── 3_📜_AI_Audit_Trail.py
+│   ├── 5_💳_Blockchain_Payments.py
+│   ├── 6_⭐_Verified_Reviews.py
+│   └── 7_🏆_Trust_Reputation.py
 │
-├── utils
+├── utils/
 │   ├── audit_logger.py
 │   └── recommender.py
 │
-├── .gitignore
 ├── app.py
 ├── audit_log.json
-├── requirements.txt
-└── README.md
+├── README.md
+└── requirements.txt
 
+⚙️ Technology Stack:-
+Technology	                  Purpose
+Python	                        Core programming language
+Streamlit	                    Web application interface
+AI Agent Logic	                Product discovery and recommendations
+JSON	                        Product, payment, review, and audit data
+Blockchain-Inspired System  	Payment verification
+Verified Reviews	            Product reputation
+Trust Score	                    Trust-based recommendations
 
-🛍️ Sample Products
-
-The project currently includes:
-
-💻 CodePro Laptop
-💻 UltraBook Pro
-🖱️ Wireless Mouse
-🎒 Laptop Backpack
-⌨️ Mechanical Keyboard
-
-These products are currently used for demonstration purposes.
-
-▶️ How to Run the Project Locally
-Step 1: Clone the Repository
+💻 How to Run the Project Locally
+1. Clone the Repository
 git clone https://github.com/samhithavasanthu-tech/ShopWise-AI.git
-Step 2: Navigate to the Project Folder
+2. Go to the Project Folder
 cd ShopWise-AI
-Step 3: Install Dependencies
+3. Install Dependencies
 pip install -r requirements.txt
-Step 4: Run the Application
-python -m streamlit run app.py
+4. Run the Streamlit Application
+streamlit run app.py
+The application will open in your browser.
 
-🎯 Project Objective:
-The objective of ShopWise AI is to demonstrate how an AI-powered agent can improve the online shopping experience by:
+🎯 Project Objective
 
-Understanding user requirements
-Finding relevant products
-Ranking products intelligently
-Recommending complementary products
-Increasing potential revenue
-Maintaining transparency through audit logs
-Keeping humans in control of final decisions
+The main objective of ShopWise AI is to build a more intelligent and trustworthy commerce experience by combining:
 
-🔮 Future Improvements:
+.Artificial Intelligence
+.Agentic decision-making
+.Explainable recommendations
+.Revenue optimization
+.Blockchain-inspired payment verification
+.Verified customer reviews
+.Trust and reputation signals
+
+The system ensures that AI can assist users with shopping decisions while keeping users in control of the final purchase decision.
+
+🔮 Future Improvements:-
 Future versions of ShopWise AI could include:
-Large Language Model integration
-Real-time product APIs
-Personalized user recommendations
-Payment gateway integration
-Real-time inventory management
-Customer preference learning
-Advanced analytics
-Multi-agent AI architecture
+.Real blockchain integration
+.Cryptocurrency wallet integration
+.Smart contracts
+.Real payment gateway integration
+.Machine learning recommendation models
+.User authentication
+.Database integration
+.Product seller verification
+.Decentralized identity
+.AI fraud detection
+.Advanced analytics
 
- Author:
+👩‍💻 Author
 Samhitha Vasanthu
-AI & Data Science Student
 
-🌟 Buildathon Project:
-ShopWise AI was developed as an AI-powered agentic commerce project demonstrating:
-
-AI + Product Discovery + Revenue Growth + Transparency + Human Approval
+🚀 ShopWise AI
+Building intelligent, transparent, and trustworthy agentic commerce.    

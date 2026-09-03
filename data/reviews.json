@@ -1,0 +1,32 @@
+[
+    {
+        "review_id": "42de06d3-9f5c-4542-842a-7e692f49e72b",
+        "product_id": 1,
+        "wallet_address": "0xSamhitha123456789",
+        "rating": 5,
+        "review": "Excellent laptop for programming and student projects.",
+        "verified_purchase": true,
+        "verification_method": "ShopWise Blockchain Payment Verification",
+        "timestamp": "2026-09-03 19:08:02"
+    },
+    {
+        "review_id": "24e5db6c-4781-4b77-ac63-58a3f5175149",
+        "product_id": 1,
+        "wallet_address": "0x123456789",
+        "rating": 5,
+        "review": "very good product",
+        "verified_purchase": true,
+        "verification_method": "ShopWise Blockchain Payment Verification",
+        "timestamp": "2026-09-03 19:22:30"
+    },
+    {
+        "review_id": "444a6897-5cd0-4210-a860-139fa406ff86",
+        "product_id": 1,
+        "wallet_address": "0xSHOPWISE123",
+        "rating": 5,
+        "review": "very good product",
+        "verified_purchase": true,
+        "verification_method": "ShopWise Blockchain Payment Verification",
+        "timestamp": "2026-09-03 22:26:50"
+    }
+]

@@ -328,5 +328,392 @@
             "budget": 3000,
             "results_found": 2
         }
+    },
+    {
+        "timestamp": "2026-09-03 18:58:28",
+        "action": "Product Search",
+        "details": {
+            "user_query": "I need a laptop for coding and programming",
+            "budget": 60000,
+            "results_found": 1
+        }
+    },
+    {
+        "timestamp": "2026-09-03 18:58:37",
+        "action": "Product Selected",
+        "details": {
+            "product_name": "CodePro Laptop",
+            "price": 55000,
+            "category": "Laptop",
+            "match_score": 95
+        }
+    },
+    {
+        "timestamp": "2026-09-03 18:58:42",
+        "action": "Checkout Started",
+        "details": {
+            "selected_product": "CodePro Laptop",
+            "price": 55000,
+            "potential_cross_sell_revenue": 6500
+        }
+    },
+    {
+        "timestamp": "2026-09-03 18:58:45",
+        "action": "Order Approved by User",
+        "details": {
+            "product": "CodePro Laptop",
+            "total_amount": 61500
+        }
+    },
+    {
+        "timestamp": "2026-09-03 19:18:43",
+        "action": "Blockchain Payment Created",
+        "details": {
+            "product_id": 1,
+            "product_name": "CodePro Laptop",
+            "amount": 55000,
+            "wallet_address": "0x123456789",
+            "transaction_hash": "0x4e975ee3be8f5a6e8bb91f0c9394bb5c3119530668e2f9d3c535b5aa7ab09a49",
+            "network": "ShopWise Test Blockchain",
+            "status": "confirmed"
+        }
+    },
+    {
+        "timestamp": "2026-09-03 19:21:29",
+        "action": "Blockchain Payment Created",
+        "details": {
+            "product_id": 1,
+            "product_name": "CodePro Laptop",
+            "amount": 55000,
+            "wallet_address": "0x123456789",
+            "transaction_hash": "0xc3d097ec718f5a307357f95ee7128a670aae666baddf228f20704f39e49f5c1b",
+            "network": "ShopWise Test Blockchain",
+            "status": "confirmed"
+        }
+    },
+    {
+        "timestamp": "2026-09-03 19:22:30",
+        "action": "Verified Review Submitted",
+        "details": {
+            "product_id": 1,
+            "product_name": "CodePro Laptop",
+            "wallet_address": "0x123456789",
+            "rating": 5,
+            "verified_purchase": true,
+            "review_id": "24e5db6c-4781-4b77-ac63-58a3f5175149",
+            "verification_method": "ShopWise Blockchain Payment Verification"
+        }
+    },
+    {
+        "timestamp": "2026-09-03 19:23:29",
+        "action": "Blockchain Payment Verified",
+        "details": {
+            "product_id": 1,
+            "product_name": "CodePro Laptop",
+            "amount": 55000,
+            "wallet_address": "0x123456789",
+            "transaction_hash": "0xc3d097ec718f5a307357f95ee7128a670aae666baddf228f20704f39e49f5c1b",
+            "status": "confirmed"
+        }
+    },
+    {
+        "timestamp": "2026-09-03 19:25:28",
+        "action": "Product Search",
+        "details": {
+            "user_query": "Mechanical Keyboard",
+            "budget": 3000,
+            "results_found": 2
+        }
+    },
+    {
+        "timestamp": "2026-09-03 19:26:04",
+        "action": "Blockchain Payment Created",
+        "details": {
+            "product_id": 5,
+            "product_name": "Mechanical Keyboard",
+            "amount": 3500,
+            "wallet_address": "0x1223456789",
+            "transaction_hash": "0xc22f5509ed33d18ddc9f82efd668efa54b02a50663e0aa6e69a17035060b68db",
+            "network": "ShopWise Test Blockchain",
+            "status": "confirmed"
+        }
+    },
+    {
+        "timestamp": "2026-09-03 19:36:31",
+        "action": "Product Search",
+        "details": {
+            "user_query": "laptop",
+            "budget": 60000,
+            "results_found": 1
+        }
+    },
+    {
+        "timestamp": "2026-09-03 19:36:41",
+        "action": "Product Selected",
+        "details": {
+            "product_name": "CodePro Laptop",
+            "price": 55000,
+            "category": "Laptop",
+            "match_score": 90,
+            "trust_score": 72
+        }
+    },
+    {
+        "timestamp": "2026-09-03 19:36:43",
+        "action": "Product Selected",
+        "details": {
+            "product_name": "CodePro Laptop",
+            "price": 55000,
+            "category": "Laptop",
+            "match_score": 90,
+            "trust_score": 72
+        }
+    },
+    {
+        "timestamp": "2026-09-03 19:36:46",
+        "action": "Product Selected",
+        "details": {
+            "product_name": "CodePro Laptop",
+            "price": 55000,
+            "category": "Laptop",
+            "match_score": 90,
+            "trust_score": 72
+        }
+    },
+    {
+        "timestamp": "2026-09-03 19:36:47",
+        "action": "Product Selected",
+        "details": {
+            "product_name": "CodePro Laptop",
+            "price": 55000,
+            "category": "Laptop",
+            "match_score": 90,
+            "trust_score": 72
+        }
+    },
+    {
+        "timestamp": "2026-09-03 19:36:50",
+        "action": "Checkout Started",
+        "details": {
+            "selected_product": "CodePro Laptop",
+            "price": 55000,
+            "potential_cross_sell_revenue": 6500
+        }
+    },
+    {
+        "timestamp": "2026-09-03 19:36:53",
+        "action": "Order Approved by User",
+        "details": {
+            "product": "CodePro Laptop",
+            "total_amount": 61500
+        }
+    },
+    {
+        "timestamp": "2026-09-03 19:45:45",
+        "action": "Product Search",
+        "details": {
+            "user_query": "I need a laptop for coding and programming",
+            "budget": 60000,
+            "results_found": 1,
+            "ranking_method": "70% AI Match Score + 30% Product Trust Score"
+        }
+    },
+    {
+        "timestamp": "2026-09-03 19:45:49",
+        "action": "Product Selected",
+        "details": {
+            "product_name": "CodePro Laptop",
+            "price": 55000,
+            "category": "Laptop",
+            "match_score": 95,
+            "trust_score": 72,
+            "final_recommendation_score": 88.1
+        }
+    },
+    {
+        "timestamp": "2026-09-03 19:45:56",
+        "action": "Checkout Started",
+        "details": {
+            "selected_product": "CodePro Laptop",
+            "price": 55000,
+            "potential_cross_sell_revenue": 6500,
+            "final_recommendation_score": 88.1
+        }
+    },
+    {
+        "timestamp": "2026-09-03 19:45:59",
+        "action": "Order Approved by User",
+        "details": {
+            "product": "CodePro Laptop",
+            "total_amount": 61500
+        }
+    },
+    {
+        "timestamp": "2026-09-03 22:17:23",
+        "action": "Product Search",
+        "details": {
+            "user_query": "Mechanical Keyboard",
+            "budget": 2000,
+            "results_found": 2,
+            "ranking_method": "70% AI Match Score + 30% Product Trust Score"
+        }
+    },
+    {
+        "timestamp": "2026-09-03 22:17:58",
+        "action": "Product Selected",
+        "details": {
+            "product_name": "Wireless Mouse",
+            "price": 1200,
+            "category": "Accessory",
+            "match_score": 50,
+            "trust_score": 0,
+            "final_recommendation_score": 35.0
+        }
+    },
+    {
+        "timestamp": "2026-09-03 22:18:01",
+        "action": "Product Selected",
+        "details": {
+            "product_name": "Laptop Backpack",
+            "price": 1800,
+            "category": "Accessory",
+            "match_score": 50,
+            "trust_score": 0,
+            "final_recommendation_score": 35.0
+        }
+    },
+    {
+        "timestamp": "2026-09-03 22:18:05",
+        "action": "Checkout Started",
+        "details": {
+            "selected_product": "Laptop Backpack",
+            "price": 1800,
+            "potential_cross_sell_revenue": 0,
+            "final_recommendation_score": 35.0
+        }
+    },
+    {
+        "timestamp": "2026-09-03 22:18:08",
+        "action": "Order Approved by User",
+        "details": {
+            "product": "Laptop Backpack",
+            "total_amount": 1800,
+            "payment_status": "Pending Blockchain Payment"
+        }
+    },
+    {
+        "timestamp": "2026-09-03 22:20:36",
+        "action": "Product Search",
+        "details": {
+            "user_query": "bagpack",
+            "budget": 1500,
+            "results_found": 1,
+            "ranking_method": "70% AI Match Score + 30% Product Trust Score"
+        }
+    },
+    {
+        "timestamp": "2026-09-03 22:20:42",
+        "action": "Product Selected",
+        "details": {
+            "product_name": "Wireless Mouse",
+            "price": 1200,
+            "category": "Accessory",
+            "match_score": 50,
+            "trust_score": 0,
+            "final_recommendation_score": 35.0
+        }
+    },
+    {
+        "timestamp": "2026-09-03 22:20:56",
+        "action": "Checkout Started",
+        "details": {
+            "selected_product": "Wireless Mouse",
+            "price": 1200,
+            "potential_cross_sell_revenue": 0,
+            "final_recommendation_score": 35.0
+        }
+    },
+    {
+        "timestamp": "2026-09-03 22:21:03",
+        "action": "Order Approved by User",
+        "details": {
+            "product": "Wireless Mouse",
+            "total_amount": 1200,
+            "payment_status": "Pending Blockchain Payment"
+        }
+    },
+    {
+        "timestamp": "2026-09-03 22:21:32",
+        "action": "Blockchain Payment Created",
+        "details": {
+            "product": "Wireless Mouse",
+            "amount": 1200,
+            "wallet": "0xSamhitha123456789",
+            "transaction_hash": "0x7defb305b292d0fcf7966bbfbe3e86c63e17d307a03ee239d3cbaf5be3e9103e"
+        }
+    },
+    {
+        "timestamp": "2026-09-03 22:24:46",
+        "action": "Product Search",
+        "details": {
+            "user_query": "laptop",
+            "budget": 60000,
+            "results_found": 1,
+            "ranking_method": "70% AI Match Score + 30% Product Trust Score"
+        }
+    },
+    {
+        "timestamp": "2026-09-03 22:24:52",
+        "action": "Product Selected",
+        "details": {
+            "product_name": "CodePro Laptop",
+            "price": 55000,
+            "category": "Laptop",
+            "match_score": 90,
+            "trust_score": 72,
+            "final_recommendation_score": 84.6
+        }
+    },
+    {
+        "timestamp": "2026-09-03 22:24:58",
+        "action": "Checkout Started",
+        "details": {
+            "selected_product": "CodePro Laptop",
+            "price": 55000,
+            "potential_cross_sell_revenue": 6500,
+            "final_recommendation_score": 84.6
+        }
+    },
+    {
+        "timestamp": "2026-09-03 22:25:04",
+        "action": "Order Approved by User",
+        "details": {
+            "product": "CodePro Laptop",
+            "total_amount": 61500,
+            "payment_status": "Pending Blockchain Payment"
+        }
+    },
+    {
+        "timestamp": "2026-09-03 22:25:32",
+        "action": "Blockchain Payment Created",
+        "details": {
+            "product": "CodePro Laptop",
+            "amount": 61500,
+            "wallet": "0xSHOPWISE123",
+            "transaction_hash": "0xefaab298bbf4c00efd0bcd5efe0cc1482e4c4130b506350e39203612b6913506"
+        }
+    },
+    {
+        "timestamp": "2026-09-03 22:26:50",
+        "action": "Verified Review Submitted",
+        "details": {
+            "product_id": 1,
+            "product_name": "CodePro Laptop",
+            "wallet_address": "0xSHOPWISE123",
+            "rating": 5,
+            "verified_purchase": true,
+            "review_id": "444a6897-5cd0-4210-a860-139fa406ff86",
+            "verification_method": "ShopWise Blockchain Payment Verification"
+        }
     }
 ]
