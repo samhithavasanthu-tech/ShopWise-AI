@@ -104,4 +104,4 @@ def rank_products_by_trust(products):
     )
 
 
-    return ranked_productsdone
+    return ranked_products

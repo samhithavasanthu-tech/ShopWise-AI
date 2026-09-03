@@ -715,5 +715,46 @@
             "review_id": "444a6897-5cd0-4210-a860-139fa406ff86",
             "verification_method": "ShopWise Blockchain Payment Verification"
         }
+    },
+    {
+        "timestamp": "2026-09-03 23:45:57",
+        "action": "Product Search",
+        "details": {
+            "user_query": "laptop",
+            "budget": 60000,
+            "results_found": 1,
+            "ranking_method": "70% AI Match Score + 30% Product Trust Score"
+        }
+    },
+    {
+        "timestamp": "2026-09-03 23:46:05",
+        "action": "Product Selected",
+        "details": {
+            "product_name": "CodePro Laptop",
+            "price": 55000,
+            "category": "Laptop",
+            "match_score": 90,
+            "trust_score": 76,
+            "final_recommendation_score": 85.8
+        }
+    },
+    {
+        "timestamp": "2026-09-03 23:46:08",
+        "action": "Checkout Started",
+        "details": {
+            "selected_product": "CodePro Laptop",
+            "price": 55000,
+            "potential_cross_sell_revenue": 6500,
+            "final_recommendation_score": 85.8
+        }
+    },
+    {
+        "timestamp": "2026-09-03 23:46:11",
+        "action": "Order Approved by User",
+        "details": {
+            "product": "CodePro Laptop",
+            "total_amount": 61500,
+            "payment_status": "Pending Blockchain Payment"
+        }
     }
 ]
